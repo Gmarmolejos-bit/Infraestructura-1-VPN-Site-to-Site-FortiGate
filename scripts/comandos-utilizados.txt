@@ -1,0 +1,27 @@
+# Verificar estado de la VPN
+get vpn ipsec tunnel summary
+
+# Ver detalle y tráfico del túnel IPsec
+diagnose vpn tunnel list
+
+# Ver tabla de enrutamiento
+get router info routing-table all
+
+# Ver políticas de firewall
+show firewall policy
+
+# Ver interfaces del FortiGate
+show system interface
+
+# Probar conectividad entre los FortiGate
+execute ping 203.0.113.3
+execute ping 203.0.113.2
+
+# PC1 - verificar IP
+show ip
+
+# PC1 - probar gateway
+ping 10.12.48.1
+
+# PC1 - probar servidor remoto por VPN
+ping 10.12.48.130
