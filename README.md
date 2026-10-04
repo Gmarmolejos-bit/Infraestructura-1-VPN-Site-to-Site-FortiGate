@@ -4,7 +4,7 @@ Laboratorio de VPN IPsec Site-to-Site entre dos FortiGate en GNS3, con documenta
 
 ## 🎥 Video demostrativo
 
-[Ver video demostrativo](ENLACE_DEL_VIDEO)
+https://itlaedudo.sharepoint.com/:v:/s/Pratica/IQA3EpLA_ELTRoi851lCEBlJAYJxPUJOf40rq1d16JHw38E?e=ck8sbT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ---
 
